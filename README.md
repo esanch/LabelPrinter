@@ -25,8 +25,7 @@ Few things you can do using CODESOFT's Label Printer:
 ## Getting Started
 
 ### Prerequisites
-* [CODESOFT](https://www.teklynx.com/en/products/request-demo?product=CODESOFT)
-* [SDK Installer](https://developer.intuit.com/downloads/restricted?filename=qbsdk130.exe&download=true)
+* CODESOFT [[Demo]](https://www.teklynx.com/en/products/request-demo?product=CODESOFT)
 
 ### Installing 
 1. [](https://www.teklynx.com/en/products/request-demo?product=CODESOFT) CODESOFT demo<br />
@@ -54,7 +53,7 @@ Few things you can do using CODESOFT's Label Printer:
 	*\*An interactive dialog window will appear\**<br />
 2. On the interactive window locate and click the box right of **"Order Number:"**<br />
 	*\*This will allow user to select a sales order based on the dropdown menu of orders\**<br />
-  *\*A user may also choose to manually input the sales order number they are trying to reference\**
+  *\*A user may also choose to manually input the purchase order number they are trying to reference\**
 3. Once the preview label loads in the pane above move on to selecting an ItemCode & Job <br />
 4. Locate and click the button to the right of **"ItemCode | Job:"** <br />
   *\*A second blue interactive dialog window will appear which the user will be able to select an Item Code and a Job ID\**<br />
@@ -69,7 +68,7 @@ Few things you can do using CODESOFT's Label Printer:
 	*\*An interactive dialog window will appear\**<br />
 2. On the interactive window locate and click the box right of **"Work Order:"**<br />
 	*\*This will allow user to select a sales order based on the dropdown menu of orders\**<br />
-  *\*A user may also choose to manually input the sales order number they are trying to reference\**
+  *\*A user may also choose to manually input the work order number they are trying to reference\**
 3. Once the preview label loads in the pane above move on to selecting an ItemCode & PartNumber <br />
 4. Locate and click the button to the right of **"ItemCode | PartNumber:"** <br />
   *\*A second orange interactive dialog window will appear which the user will be able to select an Item Code and a Part No\**<br />
@@ -79,8 +78,8 @@ Few things you can do using CODESOFT's Label Printer:
 7. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 ## Built With
-* [CODESOFT](https://www.teklynx.com/en/products/label-design-solutions/codesoft)
-#### For usage with
+* Label Designer - [CODESOFT](https://www.teklynx.com/en/products/label-design-solutions/codesoft)
+#### For usage on
 * [Brady IP300 Printer](https://www.bradyid.com/retired-printers/IP-printer?Ntt=ip%20printer)
 
 ## Authors
