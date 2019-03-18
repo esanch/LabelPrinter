@@ -17,10 +17,9 @@ Print Sales|Purchase|Work orders with up-to-date information such as ItemCode, P
 ## Features
 Few things you can do using CODESOFT's Label Printer:
 * View Purchase|Sales|Work order label previews based on Order Number and other required parameters
-* Print individual labels per Items in a giver Purchase|Sales|Work order
-  * *Quantity of labels (for Purchase|Sales) is dependent on quantity of each item in the order*
-* 
-* 
+* Print individual labels per Items in a given Purchase|Sales|Work order
+  * *Quantity of labels (for Purchase|Sales) is dependent on quantity of each item in the order
+* View Item values that make up an order
 
 ## Getting Started
 
@@ -28,7 +27,7 @@ Few things you can do using CODESOFT's Label Printer:
 * CODESOFT [[Demo]](https://www.teklynx.com/en/products/request-demo?product=CODESOFT)
 
 ### Installing 
-1. [](https://www.teklynx.com/en/products/request-demo?product=CODESOFT) CODESOFT demo<br />
+1. [Download as Zip](https://dev.azure.com/UnitedBakeryEquipment/_git/Label%20Printer?path=%2F&version=GBmaster)  to retrieve necessary Orders files<br />
 2. <br />
 
 ### Running
