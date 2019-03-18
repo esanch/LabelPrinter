@@ -32,7 +32,7 @@ Few things you can do using CODESOFT's Label Printer:
 
 
 ### Installing 
-1. [Download as Zip](https://dev.azure.com/UnitedBakeryEquipment/_git/Label%20Printer?path=%2F&version=GBmaster) to retrieve necessary Orders files<br />
+1. Click on [Download as Zip](https://dev.azure.com/UnitedBakeryEquipment/_git/Label%20Printer?path=%2F&version=GBmaster) to retrieve necessary Orders files<br />
 2. Depending on the type of order you are working on (Purchase|Sales|Work) select the correct folder to view the label printer<br />
 
 
