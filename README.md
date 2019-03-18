@@ -45,11 +45,10 @@ Few things you can do using CODESOFT's Label Printer:
 1. Once program files are downloaded, double-click and run **sales.Xmf** file <br />
 	<img src="Screenshots/salesSelect.png" width="200" />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
-	<img src="Screenshots/salesOrderNo.png" width="250" />
+	<img src="Screenshots/salesOrderNo.png" width="250" /><br />
   *\*A user may also choose to manually input the Sales Order No.*
-3. Locate and click the button to the right of **"ItemCode:"** <br />
+3. Locate and click the button to the right of **"ItemCode:"** Select an Item Code you wish to print a label for<br /> <br />
 	  <img src="Screenshots/salesItem.png" width="250" />
-5. From the drop down the user must select an Item Code they wish to print a label for<br />
   *\*Once Item Code is selected click **"OK"** to return to the previous window*<br />
 6. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
 7. Complete steps 4-6 for each additonal item you wish to print from an order <br />
