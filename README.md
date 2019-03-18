@@ -43,17 +43,17 @@ Few things you can do using CODESOFT's Label Printer:
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **sales.Xmf** file <br />
 	*\*An interactive dialog window will appear*<br />
-2. On the interactive window locate and click the box right of **"Order Number:"**<br />
-	*\*This will allow user to select a sales order based on the dropdown menu of orders*<br />
-  *\*A user may also choose to manually input the sales order number they are trying to reference*
-3. Once the preview label loads in the pane above move on to selecting an ItemCode <br />
+2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
+	*\*This will allow user to select a Sales Order No. based on the dropdown menu of orders*<br />
+  *\*A user may also choose to manually input the Sales Order No.*
+3. Once the label loads in the preview pane, move on to selecting an ItemCode <br />
 4. Locate and click the button to the right of **"ItemCode:"** <br />
-  *\*A second blue-green interactive dialog window will appear which the user will be able to select an Item Code*<br />
+  *\*A second blue-green interactive dialog window will appear which allows the user to select an Item Code*<br />
 5. From the drop down the user must select an Item Code they wish to print a label for<br />
   *\*Once Item Code is selected click **"OK"** to return to the previous window*<br />
-6. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
+6. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
 7. Complete steps 4-6 for each additonal item you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the order number you are working on* <br />
+	*\*Follow from steps 2-6 to change the Sales Order No. you are working on* <br />
 8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
@@ -61,17 +61,17 @@ Few things you can do using CODESOFT's Label Printer:
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **purchase.Xmf** file <br />
 	*\*An interactive dialog window will appear*<br />
-2. On the interactive window locate and click the box right of **"Order Number:"**<br />
-	*\*This will allow user to select a sales order based on the dropdown menu of orders*<br />
-  *\*A user may also choose to manually input the purchase order number they are trying to reference*
-3. Once the preview label loads in the pane above move on to selecting an ItemCode & Job <br />
+2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
+	*\*This will allow user to select a Purchase Order No. based on the dropdown menu of orders*<br />
+  *\*A user may also choose to manually input the Purchase Order No.*
+3. Once the label loads in the preview pane, move on to selecting an ItemCode & Job <br />
 4. Locate and click the button to the right of **"ItemCode | Job:"** <br />
   *\*A second blue interactive dialog window will appear which the user will be able to select an Item Code and a Job ID*<br />
 5. From the drop down the user must select the parameters they wish to print a label for<br />
   *\*Once the Item Code AND Job are selected click **"OK"** to return to the previous window*<br />
 6. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
 7. Complete steps 4-6 for each additonal Item/Job you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the order number you are working on* <br />
+	*\*Follow from steps 2-6 to change the Purchase Order No. you are working on* <br />
 8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
@@ -79,17 +79,17 @@ Few things you can do using CODESOFT's Label Printer:
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **workOrders.Xmf** file <br />
 	*\*An interactive dialog window will appear*<br />
-2. On the interactive window locate and click the box right of **"Work Order:"**<br />
-	*\*This will allow user to select a sales order based on the dropdown menu of orders*<br />
-  *\*A user may also choose to manually input the work order number they are trying to reference*
-3. Once the preview label loads in the pane above move on to selecting an ItemCode & PartNumber <br />
+2. On the interactive window locate and click the box to the right of **"Work Order:"**<br />
+	*\*This will allow user to select a Wales Order No. based on the dropdown menu of orders*<br />
+  *\*A user may also choose to manually input the Work Order No.*
+3. Once the label loads in the preview pane, move on to selecting an ItemCode & PartNumber <br />
 4. Locate and click the button to the right of **"ItemCode | PartNumber:"** <br />
   *\*A second orange interactive dialog window will appear which the user will be able to select an Item Code and a Part No*<br />
 5. From the drop down the user must select the parameters they wish to print a label for<br />
   *\*Once the Item Code AND Part No are selected click **"OK"** to return to the previous window*<br />
 6. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
 7. Complete steps 4-6 for each additonal Item/PartNumber you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the order number you are working on* <br />
+	*\*Follow from steps 2-6 to change the Work Order No. you are working on* <br />
 8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
@@ -102,10 +102,10 @@ Few things you can do using CODESOFT's Label Printer:
 ## Troubleshooting
 *\*In the event an error arises ensure the following parameters are met*
 * Open the **Purchase**|**SalesOrders**|**WorkOrder** **.lab** file on CODESOFT corresponding to the Order type you are working on 
-* Ensure all sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** **Table lookup** point to **dat8121** as the selected data source under **Selct a data source**
+* Ensure all sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** \***Table lookup**\* point to **dat8121** under **Selet a data source**
 * Ensure **Table lookup** and **When printed** have the same value in the paranthesis
 	* (6) for **SalesOrders.lab** & **Purchase.lab** and (7) for **WorkOrder.lab** <br />
-* See [SQL queries](#queries) to ensure all values have the correct query input under **SQL \[SQL Query Builder\]**
+* See [SQL queries](#queries) to ensure all values have the correct query input under **Table lookup** **SQL \[SQL Query Builder\]**
 
 
 ### Queries
