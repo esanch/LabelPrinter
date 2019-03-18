@@ -103,7 +103,7 @@ Few things you can do using CODESOFT's Label Printer:
 <img src="Screenshots/labelSelect.png" width="300" /><br />
 * Ensure all sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** \***Table lookup**\* point to **dat8121** 
 <img src="Screenshots/dataSource.png" width="300" /><br />
-* Ensure **Table lookup** and **When printed** have the same value in the parenthesis
+* Ensure **Table lookup** and **When printed** have the same value in the parenthesis<br />
 <img src="Screenshots/purchaseTablePrint.png" width="150" /><img src="Screenshots/salesTablePrint.png" width="150" /><img src="Screenshots/workTablePrint.png" width="150" /><br />
 * See [SQL queries](#queries) to ensure all values have the correct query input under **Table lookup** **SQL \[SQL Query Builder\]**
 	<img src="Screenshots/sqlOpen.png" width="300" /><br />
