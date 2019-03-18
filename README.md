@@ -21,7 +21,7 @@ Print Sales|Purchase|Work orders with up-to-date information such as ItemCode, P
 Few things you can do using CODESOFT's Label Printer:
 * View Purchase|Sales|Work order label previews based on Order Number and other required parameters
 * Print individual labels per Items in a given Purchase|Sales|Work order
-  * *Quantity of labels (for Purchase|Sales) is dependent on quantity of each item in the order
+  * *Quantity of labels for Purchase|Sales is dependent on quantity of each item in the order
 * View Item values that make up an order
 
 
