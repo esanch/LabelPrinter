@@ -1,5 +1,5 @@
 # LabelPrinter
-Print Sales|Purchase|Work orders with up-to-date information such as ItemCode, Part Number, Description, etc. Built using Teklynx's Label Designer CODESOFT, program works hand in hand with Company's Database Files to produce relevant labels based on provided information.
+Print Sales|Purchase|Work orders with up-to-date information such as ItemCode, Part Number, Description, etc. Built using Teklynx's Label Designer CODESOFT; program works hand in hand with Company's database files to produce relevant labels based on provided information.
 
 
 ## Table of contents
@@ -108,11 +108,11 @@ Few things you can do using CODESOFT's Label Printer:
 
 
 ### Queries
-* [Sales Order](#squery) Query
-* [Purchase](#pquery) Query
-* [Work Order](#wquery) Query
+* [Sales Order](#sales-query) Query
+* [Purchase](#purchase-query) Query
+* [Work Order](#work-query) Query
 
-#### SQuery
+#### Sales Query
 * DescTable:
 	```
 	SELECT [lbl_SalesOrder].[Description] FROM [lbl_SalesOrder] WHERE 
@@ -150,7 +150,7 @@ Few things you can do using CODESOFT's Label Printer:
 	ORDER BY RefNumber DESC
 	```
 	
-#### PQuery 
+#### Purchase Query 
 * DescTable
 	```
 	SELECT [lbl_PurchaseOrder].[Description] FROM [lbl_PurchaseOrder] WHERE 
@@ -190,7 +190,7 @@ Few things you can do using CODESOFT's Label Printer:
 	ORDER BY RefNumber DESC
 	```
 
-#### WQuery
+#### Work Query
 * DescTable
 	```
 	SELECT [lbl_WorkOrder].[Description] FROM [lbl_WorkOrder] WHERE 
