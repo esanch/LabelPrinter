@@ -235,7 +235,7 @@ Few things you can do using CODESOFT's Label Printer:
 	```
 * WorkOrderTable
 	```
-	SELECT DISTINCT TOP (1000) [WorkOrder] FROM [lbl_WorkOrder] .
+	SELECT DISTINCT TOP (1000) [WorkOrder] FROM [lbl_WorkOrder] 
 	ORDER BY WorkOrder DESC
 	```
 
