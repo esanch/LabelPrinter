@@ -23,7 +23,7 @@ Few things you can do using CODESOFT's Label Printer:
 * Print individual labels per item in a given Purchase|Sales|Work order
   * *Quantity of labels printed for Purchase|Sales order items is dependent on quantity of each item in the order*
   * *Quantity of labels printed for Work order items is set to default **1***
-* View Item values that make up an order
+* View item values that make up an order
 
 
 ## Getting Started
