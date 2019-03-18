@@ -35,19 +35,15 @@ Few things you can do using CODESOFT's Label Printer:
 ### Installing 
 ### **Open [Label Printer](https://dev.azure.com/UnitedBakeryEquipment/_git/Label%20Printer)<br />**
 <img src="Screenshots/initialDownload.png" width="800" />
-
-
-
-
-2. Depending on the type of order you are working on (Purchase|Sales|Work) select the correct folder to view the label printer<br />
-
+<img src="Screenshots/extract.png" width="300" /><img src="Screenshots/openOrders.png" width="300" />
+<img src="Screenshots/fileSelect.png" width="300" />
 
 ### Running
 
 #### Sales
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **sales.Xmf** file <br />
-	*\*An interactive dialog window will appear*<br />
+	<img src="Screenshots/salesSelect.png" width="200" />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
 	*\*This will allow user to select a Sales Order No. based on the dropdown menu of orders*<br />
   *\*A user may also choose to manually input the Sales Order No.*
@@ -65,7 +61,7 @@ Few things you can do using CODESOFT's Label Printer:
 #### Purchasing
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **purchase.Xmf** file <br />
-	*\*An interactive dialog window will appear*<br />
+	<img src="Screenshots/purchaseSelect.png" width="200" />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
 	*\*This will allow user to select a Purchase Order No. based on the dropdown menu of orders*<br />
   *\*A user may also choose to manually input the Purchase Order No.*
@@ -83,7 +79,7 @@ Few things you can do using CODESOFT's Label Printer:
 #### Work
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **workOrders.Xmf** file <br />
-	*\*An interactive dialog window will appear*<br />
+	<img src="Screenshots/workSelect.png" width="200" />
 2. On the interactive window locate and click the box to the right of **"Work Order:"**<br />
 	*\*This will allow user to select a Wales Order No. based on the dropdown menu of orders*<br />
   *\*A user may also choose to manually input the Work Order No.*
