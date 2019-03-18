@@ -43,53 +43,49 @@ Few things you can do using CODESOFT's Label Printer:
 #### Sales
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **sales.Xmf** file <br />
-	<img src="Screenshots/salesSelect.png" width="200" />
+	<img src="Screenshots/salesSelect.png" width="200" /><br />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
 	<img src="Screenshots/salesOrderNo.png" width="250" /><br />
-  *\*A user may also choose to manually input the Sales Order No.*
-3. Locate and click the button to the right of **"ItemCode:"** Select an Item Code you wish to print a label for<br /> <br />
-	  <img src="Screenshots/salesItem.png" width="250" />
+  *\*A user may also choose to manually input the Sales Order No.* <br />
+3. Locate and click the button to the right of **"ItemCode:"** Select an Item Code <br />
+	  <img src="Screenshots/salesItem.png" width="250" /> <br />
   *\*Once Item Code is selected click **"OK"** to return to the previous window*<br />
-6. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
-7. Complete steps 4-6 for each additonal item you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the Sales Order No. you are working on* <br />
-8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
+4. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
+5. Complete steps 3-4 for each additonal item you wish to print from an order <br />
+	*\*Follow from steps 2-4 to change the Sales Order No. you are working on* <br />
+6. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
 #### Purchasing
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **purchase.Xmf** file <br />
-	<img src="Screenshots/purchaseSelect.png" width="200" />
+	<img src="Screenshots/purchaseSelect.png" width="200" /><br />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
-	*\*This will allow user to select a Purchase Order No. based on the dropdown menu of orders*<br />
-  *\*A user may also choose to manually input the Purchase Order No.*
-3. Once the label loads in the preview pane, move on to selecting an ItemCode & Job <br />
-4. Locate and click the button to the right of **"ItemCode | Job:"** <br />
-  *\*A second blue interactive dialog window will appear which the user will be able to select an Item Code and a Job ID*<br />
-5. From the drop down the user must select the parameters they wish to print a label for<br />
+	<img src="Screenshots/purchaseOrderNo.png" width="250" /><br />
+  *\*A user may also choose to manually input the Purchase Order No.*<br />
+3. Locate and click the button to the right of **"ItemCode | Job:"** Select an Item Code and a Job ID<br />
+	<img src="Screenshots/purchaseItem.png" width="150" /><img src="Screenshots/purchaseJob.png" width="150" /><br />
   *\*Once the Item Code AND Job are selected click **"OK"** to return to the previous window*<br />
-6. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
-7. Complete steps 4-6 for each additonal Item/Job you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the Purchase Order No. you are working on* <br />
-8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
+4. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
+5. Complete steps 3-4 for each additonal Item/Job you wish to print from an order <br />
+	*\*Follow from steps 2-4 to change the Purchase Order No. you are working on* <br />
+6. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
 #### Work
 *\*Refer to [Installing](#installing) prior to running program\**
 1. Once program files are downloaded, double-click and run **workOrders.Xmf** file <br />
-	<img src="Screenshots/workSelect.png" width="200" />
+	<img src="Screenshots/workSelect.png" width="200" /><br />
 2. On the interactive window locate and click the box to the right of **"Work Order:"**<br />
-	*\*This will allow user to select a Wales Order No. based on the dropdown menu of orders*<br />
-  *\*A user may also choose to manually input the Work Order No.*
-3. Once the label loads in the preview pane, move on to selecting an ItemCode & PartNumber <br />
-4. Locate and click the button to the right of **"ItemCode | PartNumber:"** <br />
-  *\*A second orange interactive dialog window will appear which the user will be able to select an Item Code and a Part No*<br />
-5. From the drop down the user must select the parameters they wish to print a label for<br />
+	<img src="Screenshots/workOrderNo.png" width="250" /><br />
+  *\*A user may also choose to manually input the Work Order No.*<br />
+3. Locate and click the button to the right of **"ItemCode | PartNumber:"** Select an Item Code and a Part No*<br />
+	<img src="Screenshots/workItem.png" width="150" /><img src="Screenshots/workPartNo.png" width="150" /><br />
   *\*Once the Item Code AND Part No are selected click **"OK"** to return to the previous window*<br />
-6. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
-7. Complete steps 4-6 for each additonal Item/PartNumber you wish to print from an order <br />
-	*\*Follow from steps 2-6 to change the Work Order No. you are working on* <br />
-8. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
+4. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
+5. Complete steps 3-4 for each additonal Item/PartNumber you wish to print from an order <br />
+	*\*Follow from steps 2-4 to change the Work Order No. you are working on* <br />
+6. To close the program simply click the **"X"** on the top right corner of the dialog box<br />
 
 
 ## Built With
