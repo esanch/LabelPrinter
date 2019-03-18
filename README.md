@@ -47,9 +47,10 @@ Few things you can do using CODESOFT's Label Printer:
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
 	<img src="Screenshots/salesOrderNo.png" width="250" /><br />
   *\*A user may also choose to manually input the Sales Order No.* <br />
-3. Locate and click the button to the right of **"ItemCode:"** Select an Item Code <br />
+3. Locate and click the button to the right of **"ItemCode:"**<br />
 	  <img src="Screenshots/salesItem.png" width="250" /> <br />
-  *\*Once Item Code is selected click **"OK"** to return to the previous window*<br />
+ *\*Select an Item Code*<br />
+ *\**Once Item Code is selected click **"OK"** to return to the previous window*<br />
 4. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
 5. Complete steps 3-4 for each additonal item you wish to print from an order <br />
 	*\*Follow from steps 2-4 to change the Sales Order No. you are working on* <br />
@@ -63,9 +64,10 @@ Few things you can do using CODESOFT's Label Printer:
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
 	<img src="Screenshots/purchaseOrderNo.png" width="250" /><br />
   *\*A user may also choose to manually input the Purchase Order No.*<br />
-3. Locate and click the button to the right of **"ItemCode | Job:"** Select an Item Code and a Job ID<br />
+3. Locate and click the button to the right of **"ItemCode | Job:"**<br />
 	<img src="Screenshots/purchaseItem.png" width="150" /><img src="Screenshots/purchaseJob.png" width="150" /><br />
-  *\*Once the Item Code AND Job are selected click **"OK"** to return to the previous window*<br />
+   *\*Select an Item Code and Job*<br />
+ *\**Once the Item Code AND Job are selected click **"OK"** to return to the previous window*<br />
 4. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
 5. Complete steps 3-4 for each additonal Item/Job you wish to print from an order <br />
 	*\*Follow from steps 2-4 to change the Purchase Order No. you are working on* <br />
@@ -79,9 +81,10 @@ Few things you can do using CODESOFT's Label Printer:
 2. On the interactive window locate and click the box to the right of **"Work Order:"**<br />
 	<img src="Screenshots/workOrderNo.png" width="250" /><br />
   *\*A user may also choose to manually input the Work Order No.*<br />
-3. Locate and click the button to the right of **"ItemCode | PartNumber:"** Select an Item Code and a Part No*<br />
+3. Locate and click the button to the right of **"ItemCode | PartNumber:"** <br />
 	<img src="Screenshots/workItem.png" width="150" /><img src="Screenshots/workPartNo.png" width="150" /><br />
-  *\*Once the Item Code AND Part No are selected click **"OK"** to return to the previous window*<br />
+   *\*Select an Item Code and Part No.*<br />
+ *\**Once the Item Code AND Part No are selected click **"OK"** to return to the previous window*<br />
 4. Click **"Print"** once you are are content with the values in the preview pane to print the provided label <br />
 5. Complete steps 3-4 for each additonal Item/PartNumber you wish to print from an order <br />
 	*\*Follow from steps 2-4 to change the Work Order No. you are working on* <br />
