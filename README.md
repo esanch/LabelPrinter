@@ -34,7 +34,7 @@ Few things you can do using CODESOFT's Label Printer:
 
 ### Installing 
 ### **Open [Label Printer](https://dev.azure.com/UnitedBakeryEquipment/_git/Label%20Printer)<br />**
-<img src="Screenshots/initialDownload.png" width="800" />
+<img src="Screenshots/initialDownload.png" width="600" />
 <img src="Screenshots/extract.png" width="300" /><img src="Screenshots/openOrders.png" width="300" />
 <img src="Screenshots/fileSelect.png" width="300" />
 
@@ -45,11 +45,10 @@ Few things you can do using CODESOFT's Label Printer:
 1. Once program files are downloaded, double-click and run **sales.Xmf** file <br />
 	<img src="Screenshots/salesSelect.png" width="200" />
 2. On the interactive window locate and click the box to the right of **"Order Number:"**<br />
-	*\*This will allow user to select a Sales Order No. based on the dropdown menu of orders*<br />
+	<img src="Screenshots/salesOrderNo.png" width="250" />
   *\*A user may also choose to manually input the Sales Order No.*
-3. Once the label loads in the preview pane, move on to selecting an ItemCode <br />
-4. Locate and click the button to the right of **"ItemCode:"** <br />
-  *\*A second blue-green interactive dialog window will appear which allows the user to select an Item Code*<br />
+3. Locate and click the button to the right of **"ItemCode:"** <br />
+	  <img src="Screenshots/salesItem.png" width="250" />
 5. From the drop down the user must select an Item Code they wish to print a label for<br />
   *\*Once Item Code is selected click **"OK"** to return to the previous window*<br />
 6. Click **"Print"** once content with the values in the preview pane to print the provided label <br />
