@@ -102,15 +102,16 @@ Few things you can do using CODESOFT's Label Printer:
 *\*In the event an error arises ensure the following parameters are met*
 * Labels are correctly retrieving data from dat8121 & QODBC databases
 	 1. Open the **Purchase**|**SalesOrders**|**WorkOrder** **.lab** file corresponding to the Order type you are working on through CODESOFT 
+	 2. All sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** **Table lookup** point to **dat8121** as the selected data source under **Selct a data source**
 	 2. Ensure **Table lookup** and **When printed** have the same value in the paranthesis to the right
 	 	- (6) for **SalesOrders.lab** & **Purchase.lab** and (7) for **WorkOrder.lab** <br />
-	 3. See [SQL queries](#queries) to ensure all values have the correct query input under sql \[SQL Qury Builder\]
+	 3. See [SQL queries](#queries) to ensure all values have the correct query input under **SQL \[SQL Query Builder\]**
 
 
 ### Queries
-* [SQuery](#squery)
-* [PQuery](#pquery)
-* [WQuery](#wquery)
+* [Sales Order](#squery) Query
+* [Purchase](#pquery) Query
+* [Work Order](#wquery) Query
 
 #### SQuery
 * DescTable:
