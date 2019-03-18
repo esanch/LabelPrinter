@@ -99,13 +99,13 @@ Few things you can do using CODESOFT's Label Printer:
 
 ## Troubleshooting
 *\*In the event an error arises ensure the following parameters are met*
-* Open the **Purchase**|**SalesOrders**|**WorkOrder** **.lab** file on CODESOFT corresponding to the Order type you are working on 
-<img src="Screenshots/labelSelect.png" width="300" /><br />
+* Open the **Purchase**|**SalesOrders**|**WorkOrder** **.lab** file on CODESOFT corresponding to the Order type you are working on <br />
+<img src="Screenshots/labelSelect.png" width="400" /><br />
 * Ensure all sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** \***Table lookup**\* point to **dat8121** 
 <img src="Screenshots/dataSource.png" width="300" /><br />
 * Ensure **Table lookup** and **When printed** have the same value in the parenthesis<br />
 <img src="Screenshots/purchaseTablePrint.png" width="200" /><img src="Screenshots/salesTablePrint.png" width="200" /><img src="Screenshots/workTablePrint.png" width="200" /><br />
-* See [SQL queries](#queries) to ensure all values have the correct query input under **Table lookup** **SQL \[SQL Query Builder\]**
+* See [SQL queries](#queries) to ensure all values have the correct query input under **Table lookup** \> **SQL \[SQL Query Builder\]**
 	<img src="Screenshots/sqlOpen.png" width="300" /><br />
 
 
