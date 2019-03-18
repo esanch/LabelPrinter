@@ -12,7 +12,7 @@ Print Sales|Purchase|Work orders with up-to-date information such as ItemCode, P
     * [Purchasing](#purchasing)
     * [Work](#work)
 * [Built With](#built-with)
-* [Troubleshooting](troubleshooting)
+* [Troubleshooting](#troubleshooting)
 * [Authors](#authors)
 * [Copyright and License](#copyright-and-license)
 
