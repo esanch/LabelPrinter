@@ -101,6 +101,7 @@ Few things you can do using CODESOFT's Label Printer:
 *\*In the event an error arises ensure the following parameters are met*
 * Open the **Purchase**|**SalesOrders**|**WorkOrder** **.lab** file on CODESOFT corresponding to the Order type you are working on <br />
 <img src="Screenshots/labelSelect.png" width="400" /><br />
+* Make sure the printer you are using is set to **Brady IP300** and [firmware](http://www.bradyid.com.sg/~/media/brady/apac/singapore/support/drivers-firmware/ip-may2012-driver.exe?la=en-sg) is up to date<br />
 * Ensure all sub-Tables in **Purchase**|**SalesOrders**|**WorkOrder** **.lab** \***Table lookup**\* point to **dat8121** 
 <img src="Screenshots/dataSource.png" width="300" /><br />
 * Ensure **Table lookup** and **When printed** have the same value in the parenthesis<br />
